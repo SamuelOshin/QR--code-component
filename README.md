@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Created a QRcode component given by frontend mentors challenge
 =======
 # Frontend Mentor - QR code component
